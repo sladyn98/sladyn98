@@ -7,6 +7,7 @@
   <img align="left" alt="Sladyn's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+
 ![](https://visitor-badge.glitch.me/badge?page_id=sladyn98.sladyn98)
 
 <br />
@@ -22,4 +23,4 @@ Hi, I'm [Sladyn Nunes](https://sladyn.com/), an open source enthusiast.My passio
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/sladyn98" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
